@@ -1,0 +1,42 @@
+# Core ML / LLM
+llama-cpp-python==0.1.85
+huggingface-hub==0.35.3
+sentence-transformers==5.1.1
+
+# LangChain Ecosystem
+langchain==0.3.27
+langchain-community==0.3.31
+
+# Vector Database
+chromadb==1.1.1
+
+# Document Processing
+pymupdf==1.26.5
+tiktoken==0.12.0
+
+# Data Processing
+pandas==2.2.2
+numpy==2.3.3
+
+# Utilities
+python-dotenv==1.0.0
+tqdm==4.67.0
+
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+gunicorn==21.2.0
+
+# Validation
+pydantic==2.5.0
+
+# Streamlit UI
+streamlit==1.40.0
+
+# HTTP Client
+requests==2.31.0
+
+# Development / Testing
+pytest==8.3.3
+black==24.10.0
+flake8==7.1.1
